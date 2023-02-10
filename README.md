@@ -87,5 +87,5 @@ EOF  help  quit
 $
 ```
 ## Authors
-Lawrence Mugwena | Email: <mugwenalawrence121@gmail.com> <br>
-Joseph Alikah \| Email:<alikahjoseph@gmail.com>
+
+Chuks Miracle \| Email:<chuksmiracle10@gmail.com>
